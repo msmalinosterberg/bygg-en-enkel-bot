@@ -44,9 +44,9 @@ body {
 button {
     padding: 12px;
     border: 2px solid white;
-    border-radius: 12px;
+    border-radius: 20px;
     color: lightgrey;
-    font-size: 15px;
+    font-size: 20px;
     background-color: transparent;
     min-width: 140px;
     user-select: none;
